@@ -1,0 +1,9 @@
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\bin\Debug\SqlStudentEntryApp.exe.config
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\bin\Debug\SqlStudentEntryApp.exe
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\bin\Debug\SqlStudentEntryApp.pdb
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\obj\Debug\SqlStudentEntryApp.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\obj\Debug\SqlStudentEntryApp.StudentUI.resources
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\obj\Debug\SqlStudentEntryApp.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\obj\Debug\SqlStudentEntryApp.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\obj\Debug\SqlStudentEntryApp.exe
+C:\Users\Badol Hossain\Desktop\OPP\GeneralCalculatorApp (1)\SqlStudentEntryApp\SqlStudentEntryApp\obj\Debug\SqlStudentEntryApp.pdb
