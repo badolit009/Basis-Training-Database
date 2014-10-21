@@ -1,0 +1,12 @@
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MainUI.resources
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.UI.CourseUI.resources
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.UI.EnrollmentUI.resources
+C:\Users\Badol Hossain\Desktop\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.UI.StudentUI.resources
